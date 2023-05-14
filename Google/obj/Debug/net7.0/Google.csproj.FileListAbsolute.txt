@@ -313,3 +313,4 @@ C:\Users\illuminati\RiderProjects\Google\Google\obj\Debug\net7.0\Google.genrunti
 C:\Users\illuminati\RiderProjects\Google\Google\obj\Debug\net7.0\ref\Google.dll
 C:\Users\illuminati\RiderProjects\Google\Google\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
 C:\Users\illuminati\RiderProjects\Google\Google\bin\Debug\net7.0\AspNet.Security.OAuth.Discord.dll
+C:\Users\illuminati\RiderProjects\Google\Google\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
